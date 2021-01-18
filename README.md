@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋
 
-<!--
-**swe/swe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Hello nice people! I’m a tech geek with a 5+ year work experience in the tech sector, where I’ve work as a Security Engineer.
+ 
+📍 My home town is Stockholm, I live here and hike with my dog. I have international work experience from EU, Russia, USA and the UK.
 
-Here are some ideas to get you started:
+💻 Most of the time I'm writing on С/С++. Sometimes Go or Vue.js, when I need to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏛 More than tech guy, I am a passionate entrpreuner and I started an Expatriate Club at Stockholm, to unite and help people with assimilating in Sweden.
+
+🐶 I have few pet projects, but not sure if I am able to talk about them before they are started :)
+
+📫 If you want to know me closer, just message me on hello@alleksy.com
+
+📝 CV? Later
+
