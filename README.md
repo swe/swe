@@ -8,7 +8,7 @@
 
 🏛 More than tech guy, I am a passionate entrpreuner and I started an Expatriate Club at Stockholm, to unite and help people with assimilating in Sweden.
 
-🐶 I have few pet projects, but not sure if I am able to talk about them before they are started :)
+🐶 I have few pet projects, but not sure if I want to talk about them before they started :)
 
 📫 If you want to know me closer, just message me on hello@alleksy.com
 
