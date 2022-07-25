@@ -1,16 +1,13 @@
-### 👋
+### 👋 Hello Nice people!
 
-🚀 Hello nice people! I’m a tech geek with a 5+ year work experience in the tech sector, where I’ve work as a Principle Security Engineer.
- 
-📍 My home town is Stockholm, where I live and hike. Collected international work experience from EU, Russia, USA and the UK.
+Travel addicted human, passionate entrepreneur and Cyber Security Geek with interest in privacy, i18n, l10n, open source, blockchain && new technologies.
 
-💻 Most of the time I'm writing on С/С++ and Python. Sometimes Go or Vue.js, when I need to
+Based in Vancouver, BC, Canada.
+Open to work, if you will find me interesting.
 
-🏛 More than tech guy, I am a passionate entrpreuner and I started an Expatriate Club at Stockholm, to unite and help people with assimilating in Sweden.
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=swe&show_icons=true&theme=noctis_minimus" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=swe&theme=noctis_minimus" />
+</p>
 
-🐶 I have few pet projects, and one of them is "12 in 12". I am going to start 12 projects (small or huge) in 12 months. Started on February 1st, 2022
-
-📫 If you want to know me closer, just message me on hello@alleksy.com
-
-📝 CV? Check my website
-
+CV? Check my website
