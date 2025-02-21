@@ -7,6 +7,7 @@
 - 🚀 Also, my passion is to create pet-projects. They help me grow professionally during whole my life;
 - ✏️ Occasionally I write articles on my blog on [Medium](https://medium.com/@iamalleksy);
 - 🐍 Most of the code I write is on Python or Go.
+- But few months ago I started writing in JS (React & TypeScript)
 
 Open to work, if you will find me interesting.
 
