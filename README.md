@@ -3,7 +3,7 @@
 ### About
 
 - 🇨🇦 Based in Vancouver, BC, Canada;
-- 👨🏻‍💻 I am an application security engineer with interest in privacy, i18n, l10n, open source, blockchain && new technologies;
+- 👨🏻‍💻 I am just an software engineer with interest in privacy, i18n, l10n, open source, blockchain && new technologies;
 - 🚀 Also, my passion is to create pet-projects. They help me grow professionally during whole my life;
 - ✏️ Occasionally I write articles on my blog on [Medium](https://medium.com/@iamalleksy);
 - 🐍 Most of the code I write is on Python or Go.
